@@ -1199,6 +1199,8 @@ We promise never to pass off your code as ours.
 
 If you have an issue, either a bug or a feature you think would benefit your project let us know and we will do our best.
 
+Just a change.
+
 Create issues [here](https://github.com/gpujs/gpu.js/issues) and follow the template.
 
 ### Contributors
